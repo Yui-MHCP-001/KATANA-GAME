@@ -60,4 +60,10 @@ __- Run :__
   ./katana
 ```
 
+## Authors
+
+- [@Yui-MHCP-001](https://github.com/Yui-MHCP-001)
+- [@rTielemans](https://github.com/rTielemans)
+
+Special thanks to [@creibaud](https://github.com/creibaud) for the help !
 
