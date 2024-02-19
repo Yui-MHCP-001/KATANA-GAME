@@ -6,22 +6,22 @@ Linux / MacOS
   git clone https://github.com/Yui-MHCP-001/FirefoxCleanner.git
 ```
 
-__If you don't have make or g++ :__
+__- If you don't have make or g++ :__
 ```bash
   sudo apt install build-essential
 ```
 
-__Install SFML :__
+__- Install SFML :__
 ```bash
   sudo apt install libsfml-dev
 ```
 
-✨ __Compile (if it's not compiled) :__
+__- Compile (if it's not compiled) :__
 ```bash
   make
 ```
 
-__Run :__
+__- Run :__
 ```bash
   ./katana
 ```
@@ -35,27 +35,27 @@ Windows
   git clone https://github.com/Yui-MHCP-001/FirefoxCleanner.git
 ```
 
-__If you don't have make or g++ :__
+__- If you don't have make or g++ :__
 ```bash
   sudo apt install build-essential
 ```
 
-__Install SFML :__
+__- Install SFML :__
 ```bash
   sudo apt install libsfml-dev
 ```
 
-__Install WSL :__
+__- Install WSL :__
 ```bash
   wsl --install
 ```
 
-✨ __Compile (if it's not compiled) :__
+__- Compile (if it's not compiled) :__
 ```bash
   make
 ```
 
-__Run :__
+__- Run :__
 ```bash
   ./katana
 ```
